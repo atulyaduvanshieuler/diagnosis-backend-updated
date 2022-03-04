@@ -1,0 +1,1 @@
+from .stark_testing import stark_testing_function as test_stark
